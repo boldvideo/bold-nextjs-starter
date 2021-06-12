@@ -39,6 +39,13 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@boldvideo/bold-js@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@boldvideo/bold-js/-/bold-js-0.0.2.tgz#af264e1dcb95f98d671dcbd07df9e3dc98bf6f7d"
+  integrity sha512-h6hTwW9FOB1vHsllhJnLBjH5zy1+mBdyoC6VSeq/51Nm82aG1GqLXmZX0r5DBLOpVdc9vTAWlTlNC/378l+Y1w==
+  dependencies:
+    tslib "^2.3.0"
+
 "@hapi/accept@5.0.2":
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/@hapi/accept/-/accept-5.0.2.tgz#ab7043b037e68b722f93f376afb05e85c0699523"
@@ -1738,6 +1745,11 @@ ts-pnp@^1.1.6:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/ts-pnp/-/ts-pnp-1.2.0.tgz#a500ad084b0798f1c3071af391e65912c86bca92"
   integrity sha512-csd+vJOb/gkzvcCHgTGSChYpy5f1/XKNsmvBGO4JXS+z1v2HobugDz4s1IeFXM3wZB44uczs+eazB5Q/ccdhQw==
+
+tslib@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.0.tgz#803b8cdab3e12ba581a4ca41c8839bbb0dacb09e"
+  integrity sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg==
 
 tty-browserify@0.0.0:
   version "0.0.0"
